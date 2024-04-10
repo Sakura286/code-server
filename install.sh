@@ -1,5 +1,5 @@
 #!/bin/sh
-set -eu
+set -exu
 
 # code-server's automatic install script.
 # See https://coder.com/docs/code-server/latest/install
